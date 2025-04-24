@@ -1336,4 +1336,4 @@ dev = ["mypy", "ruff"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.9, <4.0"
-content-hash = "948238e40469216ba862318e217c58959160a44527c184edf51497e78b69d411"
+content-hash = "790733cf55700e46a9aeb8a387dbcea4730bfb85a52e3713a800ac9496fa78ed"
